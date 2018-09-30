@@ -1,5 +1,5 @@
 # mystique-server
-> 👾 A simple mock-server for use in node.js E2E tests.
+> 👾 A simple mock-server for using in node.js E2E tests.
 
 # Usage
 
@@ -18,3 +18,6 @@ async function test() {
   console.log('done');
 }
 ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
